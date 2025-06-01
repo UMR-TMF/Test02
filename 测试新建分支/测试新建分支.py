@@ -2,3 +2,4 @@
 print("≤‚ ‘“ª")
 print("º”1")
 print("º”2")
+print(1+2)
